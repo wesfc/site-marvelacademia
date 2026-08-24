@@ -1,0 +1,13 @@
+{
+  "name": "marvel-academia-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MVP da Marvel Academia em Node e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
