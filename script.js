@@ -104,7 +104,7 @@ const renderSchedule = (day) => {
     <a class="schedule-item" href="#contato">
       <strong>${time}</strong>
       <span>${name}</span>
-      <i aria-hidden="true">↗</i>
+      <i aria-hidden="true">&#8599;&#65038;</i>
     </a>
   `).join('');
 };

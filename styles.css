@@ -83,6 +83,7 @@ html,body{width:100%;min-width:100%;max-width:none}
   .site-header,main,.site-footer{min-width:100vw}
   .hero,.ticker,.section,.coaching,.schedule,.cta-section{width:100vw}
   .container{width:calc(100vw - 36px);max-width:none}
+  .ticker{min-width:0}
   .hero h1{font-size:clamp(54px,16vw,78px)}
   h2{font-size:clamp(44px,14vw,66px)}
   .hero-text,.section-light p,.heading-note,.schedule-head>p{font-size:13px}
